@@ -1,4 +1,3 @@
-layout_spectrum: 0.30589007306843996
 typography_spectrum: 0.036126371240243316
 color:
   brandStrength: 0.28365434776060283
@@ -6,9 +5,11 @@ color:
   saturation: 0.8219082430005074
   rhythmicContrast: 0.885128119494766
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.30589007306843996
 name: SunPanther Solutions
+title: Escalate Escalation
